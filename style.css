@@ -1,0 +1,24 @@
+h1{
+	color:black;
+	text-align: right;
+	 font-weight: bold;
+font-size: 200%;
+}
+
+image{
+	height: 600px;
+  width: 500px;
+
+}
+ h2{
+ 	text-align: left;
+ }
+p {
+	font-weight: bold;
+	 font-style: italic;
+	 font-size: 150%;
+}
+li {
+	font-size: 125%;
+text-align: left;
+}
